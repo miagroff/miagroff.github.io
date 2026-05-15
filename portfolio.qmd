@@ -1,0 +1,20 @@
+---
+title: "Portfolio"
+ links:
+    - text: Streamflow in the Colorado Basin
+      href: https://miagroff.github.io/csu-523c/lab-01.html
+    - text: Measuring Distance to Borders
+      href: https://miagroff.github.io/csu-523c/lab-02.html
+    - text: Modifiable Areal Unit Problem
+      href: https://miagroff.github.io/csu-523c/lab-03.html
+    - text: Remote Sensing Flood Probability Analysis 
+      href: https://miagroff.github.io/csu-523c/lab-04.html
+    - text: Machine Learning over CAMELS
+      href: https://miagroff.github.io/csu-523c/lab-05.html
+    - text: Predicting Streamflow with ML Models 
+      href: https://miagroff.github.io/csu-523c/lab-06.html
+      
+---
+
+Environmental Data Science Projects:
+
