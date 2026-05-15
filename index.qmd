@@ -4,7 +4,7 @@ image: media/headshot.jpg
 toc: false
 about: 
   template: jolla
-  image-shape: rounded
+  image-shape: round
   image-width: 17em
   links:
     - text: LinkedIn
@@ -15,10 +15,8 @@ about:
       href: mailto:mia.groff@colostate.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome, my name is Mia and I work at the confluence of water, land and society. I am currently in the Watershed Sciences graduate program at Colorado State University (CSU). Outside of work I like climbing rocks and sliding down snowy mountains on sticks. Fun facts: I am a certified yoga instructor and I have lived in New Zealand for a year.
 
 ```{r}
-1 + 1
+
 ```
