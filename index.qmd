@@ -1,6 +1,6 @@
 ---
 title: "Mia Groff"
-image: media/headshot.jpeg
+image: media/headshot.jpg
 toc: false
 about: 
   template: jolla
