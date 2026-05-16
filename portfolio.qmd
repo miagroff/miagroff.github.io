@@ -1,6 +1,8 @@
 ---
 title: "Portfolio"
- links:
+about:
+  template: jolla
+  links:
     - text: Streamflow in the Colorado Basin
       href: https://miagroff.github.io/csu-523c/lab-01.html
     - text: Measuring Distance to Borders
@@ -13,8 +15,6 @@ title: "Portfolio"
       href: https://miagroff.github.io/csu-523c/lab-05.html
     - text: Predicting Streamflow with ML Models 
       href: https://miagroff.github.io/csu-523c/lab-06.html
-      
 ---
 
 Environmental Data Science Projects:
-

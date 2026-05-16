@@ -2,8 +2,8 @@
 title: "About"
 ---
 
-About this site
+Web page in progress :)
 
 ```{r}
-1 + 1
+
 ```
